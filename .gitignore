@@ -1,1 +1,5 @@
+#NODE
 node_modules
+
+#EXPO
+.expo
