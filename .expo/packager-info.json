@@ -1,9 +1,9 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 3628,
-  "expoServerNgrokUrl": "https://cv-pkp.anonymous.rn-starter.exp.direct",
-  "packagerNgrokUrl": "https://packager.cv-pkp.anonymous.rn-starter.exp.direct",
-  "ngrokPid": 19428
+  "expoServerPort": null,
+  "packagerPort": null,
+  "packagerPid": null,
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null
 }
